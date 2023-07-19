@@ -1,0 +1,261 @@
+/*
+ *  Overwrites for theme
+ */
+
+ html {
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Sigmar One', cursive;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+p a {
+  word-break: break-word;
+}
+
+/*
+ * Sidebar
+ *
+ * The sidebar is the drawer, the item we are toggling with our handy hamburger
+ * button in the corner of the page.
+ *
+ * This particular sidebar implementation was inspired by Chris Coyier's
+ * "Offcanvas Menu with CSS Target" article, and the checkbox variation from the
+ * comments by a reader. It modifies both implementations to continue using the
+ * checkbox (no change in URL means no polluted browser history), but this uses
+ * `position` for the menu to avoid some potential content reflow issues.
+ *
+ * Source: http://css-tricks.com/off-canvas-menu-with-css-target/#comment-207504
+ */
+
+/* Style and "hide" the sidebar */
+.sidebar {
+  font-family: 'Sigmar One', cursive;
+  font-size: .875rem; /* 15px */
+  color: rgba(255,255,255,.6);
+}
+@media (min-width: 30em) {
+  .sidebar {
+    font-size: .75rem; /* 14px */
+  }
+}
+
+/*
+ * Themes
+ *
+ * Apply custom color schemes by adding the appropriate class to the `body`.
+ * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
+ */
+
+/* Red */
+.theme-base-JJ .sidebar,
+.theme-base-JJ .sidebar-toggle:active,
+.theme-base-JJ #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #333333;
+}
+.theme-base-JJ .container a,
+.theme-base-JJ .sidebar-toggle,
+.theme-base-JJ .related-posts li a:hover {
+  color: #333333;
+}
+
+.message {
+  background-color: unset;
+  border: 1px solid #333333;
+  color: #333333;
+  background-color: #f2f2f2;
+  border-radius: 7px;
+}
+
+.img-border {
+  border: 1px solid #000000;
+  border-radius: 7px;
+}
+
+.post-date {
+  background-color: unset;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-left: 20px solid #A00;
+  color: #333333;
+}
+
+/* Gerald Lee Jordan Theme */
+.theme-base-GJ .sidebar,
+.theme-base-GJ .sidebar-toggle:active,
+.theme-base-GJ #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #333333;
+}
+.theme-base-GJ .container a,
+.theme-base-GJ .sidebar-toggle,
+.theme-base-GJ .related-posts li a:hover {
+  color: #333333;
+/*  color: #3c4c54; */
+}
+
+.posts a {
+  text-decoration: underline;
+}
+
+.post a {
+  text-decoration: underline;
+}
+
+.page a {
+  text-decoration: underline;
+}
+
+ul li a {
+ text-transform: capitalize; 
+}
+
+.sidebar-item {
+  color: #FFCC00;
+}
+
+.highlight-text {
+  background-color: #fff4cc;
+}
+
+.masthead-title small {
+  color: #A00;
+}
+
+.sidebar-nav-item {
+  text-transform: lowercase;
+}
+
+.img-border {
+  border: 1px solid #162136;
+}
+
+.img-text {
+  text-align: center;
+  font-size: 80%;
+}
+
+p a {
+  word-break: break-word;
+}
+
+.highlight-text {
+  background-color: #fff4cc;
+}
+
+.posts a {
+  text-decoration: underline;
+}
+
+.post a {
+  text-decoration: underline;
+}
+
+.page a {
+  text-decoration: underline;
+}
+
+ul li a {
+ text-transform: capitalize; 
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 0 1rem;
+}
+
+  h1, h2, h3, h4, h5, h6 {
+  font-family: 'Sigmar One', cursive;
+  color: #162136;
+}
+
+.sidebar-nav-item {
+  text-transform: lowercase;
+}
+
+.img-text {
+  text-align: center;
+  font-size: 80%;
+}
+
+p a {
+  word-break: break-word;
+}
+
+.highlight-text {
+  background-color: #fff4cc;
+}
+
+.posts a {
+  text-decoration: underline;
+}
+
+.post a {
+  text-decoration: underline;
+}
+
+.page a {
+  text-decoration: underline;
+}
+
+ul li a {
+ text-transform: capitalize; 
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 0 1rem;
+  border-radius: 5px;
+}
+
+html {
+  font-family: 'Raleway', sans-serif;
+}
+
+.pagination {
+  font-family: 'Raleway', sans-serif;  
+}
+
+.img-border {
+  border: 1px solid #000000;
+  border-radius: 7px;
+}
+
+html {
+  font-family: 'Raleway', sans-serif;
+}
+
+.pagination {
+  font-family: 'Raleway', sans-serif;  
+}
+
+a {
+  color: #A00;
+}
+
+.custom-item a {
+  text-decoration: underline;
+}
+
+.text-box p {
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid #3F1651;
+  border-radius: 7px;
+  background-color: #f2f2f2;
+  font-family: 'Raleway', sans-serif;
+  font-size: 0.8em;
+} 
+
+.copyright-text {
+  font-size: 0.8em;
+  text-align: center; 
+}
