@@ -4,7 +4,7 @@
  <title>Tūruapō</title>
  <link href="https://tuuruapoo.com/atom.xml" rel="self"/>
  <link href="https://tuuruapoo.com/"/>
- <updated>2024-01-04T11:17:44+13:00</updated>
+ <updated>2024-01-04T11:37:38+13:00</updated>
  <id>https://tuuruapoo.com</id>
  <author>
    <name>Tūruapō</name>
@@ -13,11 +13,22 @@
 
  
  <entry>
+   <title>I am Tūruapō</title>
+   <link href="https://tuuruapoo.com/i-am-t%C5%ABruap%C5%8D/"/>
+   <updated>2024-01-04T11:23:00+13:00</updated>
+   <id>https://tuuruapoo.com/i-am-tūruapō</id>
+   <content type="html">&lt;p&gt;I lodged my name change on 05 July of last year and &lt;i&gt;finally&lt;/i&gt; got my name change confirmation a few days before my son arrived on 19 December for the holidays. Yay!&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-border&quot; src=&quot;/img/tuuruapoo-name-change.jpg&quot; alt=&quot;Tūruapō&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Tūruapō</title>
    <link href="https://tuuruapoo.com/tu%CC%84ruapo%CC%84/"/>
    <updated>2023-07-11T12:30:00+12:00</updated>
    <id>https://tuuruapoo.com/tūruapō</id>
-   <content type="html">&lt;p&gt;When you have had a vision and your name becomes .&lt;/p&gt;
+   <content type="html">&lt;p&gt;When you have had a vision and your name becomes Tūruapō.&lt;/p&gt;
 </content>
  </entry>
  
