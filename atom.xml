@@ -2,164 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Tūruapō</title>
- <link href="https://tuuruapoo.com/atom.xml" rel="self"/>
- <link href="https://tuuruapoo.com/"/>
- <updated>2023-07-19T19:00:22+12:00</updated>
- <id>https://tuuruapoo.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2024-01-03T17:56:35+13:00</updated>
+ <id>http://localhost:4000</id>
  <author>
-   <name></name>
-   <email></email>
+   <name>Mark Otto</name>
+   <email>markdotto@gmail.com</email>
  </author>
 
  
  <entry>
-   <title>Here and Now in Therapy</title>
-   <link href="https://tuuruapoo.com/2023/here-and-now-in-therapy/"/>
-   <updated>2023-07-19T15:46:00+12:00</updated>
-   <id>https://tuuruapoo.com/2023/here-and-now-in-therapy</id>
-   <content type="html">&lt;h2 id=&quot;a-first-lesson&quot;&gt;A First Lesson&lt;/h2&gt;
-
-&lt;p&gt;When I started counselling others, I fell into one of the many traps common for young therapists. People will come into therapy and want to talk about everyone except themselves and they will want to cast blame on everyone except themselves. Some of the stories are incredibly compelling and young therapists can begin to unwittingly cooperate in these efforts.&lt;/p&gt;
-
-&lt;p&gt;Someone tells you of a horrendous person with whom they have to deal and you - having empathy for your client - begin to share these feelings for third persons. You might start to agree with the client about this other person and you might even begin to imagine ways to change the third person. You quickly learn as a therapist that these reactions are not in the best interest of your client. There is a big lesson here - THERAPY IS ALWAYS ABOUT THE PERSON IN THE ROOM. What does this mean?&lt;/p&gt;
-
-&lt;h2 id=&quot;the-focus-of-therapy&quot;&gt;The Focus of Therapy&lt;/h2&gt;
-
-&lt;p&gt;You aren’t in therapy to help Auntie Alice or the aggressive step-dad - you are there to help the person sitting across from you. Therapy is always about the person who comes to therapy. Yes, you can bring in significant others for the client’s sessions when appropriate, but this is always to help the client.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-here-and-now&quot;&gt;The Here and Now&lt;/h2&gt;
-
-&lt;p&gt;One of the ways this is phrased in therapy is a reference to the “here and now”. In discussing group therapy (but this also holds for individual counselling sessions), Irvin Yalom states:&lt;/p&gt;
-
-&lt;p&gt;“&lt;i&gt;When the therapy group focuses on the here-and-now, it increases in power and effectiveness.&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;But if the here-and-now focus (that is, a focus on what is happening in this room in the immediate present) is to be therapeutic, it must have two components: the group members must experience one another with as much spontaneity and honesty as possible, and they must also reflect back on that experience. This reflecting back, this &lt;i&gt;self-reflective loop&lt;/i&gt;, is crucial if an emotional experience is to be transformed into a therapeutic one.”&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;(emphasis in original)&lt;/p&gt;
-
-&lt;h2 id=&quot;therapeutic-here-and-now&quot;&gt;Therapeutic Here and Now&lt;/h2&gt;
-
-&lt;p&gt;When you stay in the moment with your client, the focus remains on the client and what they can do to deal with their difficulties. This focus on the present also allows your client to focus on emotions at the moment and reflect upon their meaning. This is where therapeutic change occurs.&lt;/p&gt;
-
-&lt;h2 id=&quot;working-for-change&quot;&gt;Working for Change&lt;/h2&gt;
-
-&lt;p&gt;Yes, our issues arise in various contexts. Yes, other people are involved in our lives. Within therapy, though, the focus is upon you, the client. Your therapist cannot change Auntie Alice, nor should they try.&lt;/p&gt;
-
-&lt;p&gt;A skilled therapist will be able to repeatedly bring the focus back to you, even when you keep discussing your difficult Auntie.&lt;/p&gt;
-
-&lt;p&gt;You are the focus of change. You cannot force others to change, but you can change yourself by allowing yourself to feel the emotions of the moment and reflecting upon what these emotions and the events which inspired them mean to you.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt;Yalom, I. D., &amp;amp; Leszcz, M. (2005). In The theory and practice of group psychotherapy (p 30). Basic Books.&lt;/p&gt;
-
-&lt;hr /&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Body Dysmorphic Disorder Treatment by Exposure</title>
-   <link href="https://tuuruapoo.com/2023/treating-body-dsymorphic-disorder-podcast-exposure/"/>
-   <updated>2023-07-17T14:27:00+12:00</updated>
-   <id>https://tuuruapoo.com/2023/treating-body-dsymorphic-disorder-podcast-exposure</id>
-   <content type="html">&lt;h2 id=&quot;exposure-therapy&quot;&gt;Exposure Therapy&lt;/h2&gt;
-
-&lt;p&gt;Exposure Therapy is part of Cognitive Behavioural Therapy and involves gradually exposing oneself to the things of which you are afraid, as a way to show yourself that the results are not as bad as you fear they would be.&lt;/p&gt;
-
-&lt;p&gt;Alex has Body Dysmorphic Disorder and his emphasis has been what he perceived to be the odd shape of his head. There were secondary focuses, too, but this was his main concern. Alex hid behind long hair for many years, until he decided to shave his head and show it to the world. Alex says that this has empowered him and helped to free him from his major struggles with BDD.&lt;/p&gt;
-
-&lt;p&gt;While many would not be able to so openly defy their fears, this podcast gives an insight into how Alex has used exposure to his fears as as way to overcome them.&lt;/p&gt;
-
-&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/7vy1q8iOVDTSuAS4BvwPsU?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;352&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Nietzsche</title>
-   <link href="https://tuuruapoo.com/2023/nietzsche/"/>
-   <updated>2023-07-16T20:00:00+12:00</updated>
-   <id>https://tuuruapoo.com/2023/nietzsche</id>
-   <content type="html">&lt;h2 id=&quot;nietzsche&quot;&gt;Nietzsche&lt;/h2&gt;
-
-&lt;p&gt;Our family, our friends, our whānau are part of the network of relations that ensure we have good mental health. So are our non-human companions. They accept us unconditionally! To be loved is an important part of feeling alive. There are so many ways to share life with others and loving and being loved are central to who we are.&lt;/p&gt;
-
-&lt;p&gt;In his influential book on group therapy, Irvin Yalom, while discussing interpersonal relations, states that the “theory of interpersonal relationships has become so much an integral part of of the fabric of psychiatric thought that it needs no further underscoring. People need people - for initial and continued survival, for socialization, for the pursuit of satisfaction. No one - not the dying, not the outcast, not the mighty - transcends the need for human contact.”&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;While Yalom mentions interpersonal interaction with people, which we absolutely need (with strained or lacking interpersonal relationships one of the main reasons for therapy), we also benefit from interaction with other animals and with nature more broadly.&lt;/p&gt;
-
-&lt;p&gt;After much discussion, my wife and I decided to add another to our family. She had never really interacted with dogs, so she was a bit nervous. My first dog was when I was eight and was a German Shorthaired Pointer (which is what we got this time). Nietzsche joined our family in April and the house is so much more lively with his enthusiasm and desire for cuddles!&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;img-border&quot; src=&quot;https://tuuruapoo.com/public/img/nietzsche.jpg&quot; alt=&quot;Nietzsche Jordan&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt;Yalom, I. D., &amp;amp; Leszcz, M. (2005). In The theory and practice of group psychotherapy (p 24). Basic Books.&lt;/p&gt;
-
-&lt;hr /&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Yoga for Mental Health</title>
-   <link href="https://tuuruapoo.com/2023/yoga-for-mental-health/"/>
-   <updated>2023-07-16T19:48:00+12:00</updated>
-   <id>https://tuuruapoo.com/2023/-yoga-for-mental-health</id>
-   <content type="html">&lt;h2 id=&quot;mindbody-distinction&quot;&gt;Mind/Body Distinction&lt;/h2&gt;
-
-&lt;p&gt;The mind and the body are not two separate things. When we attempt to treat the mind, but ignore the body, we are only scratching the surface of helping others.&lt;/p&gt;
-
-&lt;p&gt;Want to improve your mood - including helping treat your depression - go for a walk!&lt;/p&gt;
-
-&lt;p&gt;Want to help yourself sleep - do some weight training or go tramping during the day!&lt;/p&gt;
-
-&lt;p&gt;There are so many things you can do to help yourself!&lt;/p&gt;
-
-&lt;p&gt;I have found that yoga is an incredible way to take yourself into your body and out of your mind. It helps you become more limber, it helps you to feel your body, it helps you to focus your mind. It is truly one of the three most incredible things I have ever done for myself (meditation and being vegan being the other two).&lt;/p&gt;
-
-&lt;p&gt;Your body and mind are connected. Helping one helps the other.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;img-border&quot; src=&quot;https://tuuruapoo.com/public/img/tuuruapoo-yoga.jpg&quot; alt=&quot;Yoga for mind and body&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Beating Body Dysmorphic Disorder Podcast</title>
-   <link href="https://tuuruapoo.com/2023/beating-body-dysmorphic-disorder/"/>
-   <updated>2023-07-15T12:01:00+12:00</updated>
-   <id>https://tuuruapoo.com/2023/beating-body-dysmorphic-disorder</id>
-   <content type="html">&lt;h2 id=&quot;podcast-on-bdd&quot;&gt;Podcast on BDD&lt;/h2&gt;
-
-&lt;p&gt;I am currently researching Body Dysmorphic Disorder (BDD) and came across this podcast series. It introduces the topic but - perhaps more importantly - has interviews with people who have struggled with BDD and have found relief and better lives.&lt;/p&gt;
-
-&lt;p&gt;Worth a listen if this disorder affects you or someone you love!&lt;/p&gt;
-
-&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/show/3hVPYKs2HJT94i0wnDiPVc?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;352&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>The Theory and Practice of Group Psychotherapy</title>
-   <link href="https://tuuruapoo.com/2023/theory-and-practice-of-group-psychotherapy/"/>
-   <updated>2023-07-13T16:53:00+12:00</updated>
-   <id>https://tuuruapoo.com/2023/theory-and-practice-of-group-psychotherapy</id>
-   <content type="html">&lt;h2 id=&quot;group-psychotherapy-book---irvin-d-yalom&quot;&gt;Group Psychotherapy Book - Irvin D. Yalom&lt;/h2&gt;
-
-&lt;p&gt;&lt;img class=&quot;img-border&quot; src=&quot;https://tuuruapoo.com/public/img/irvin-d-yalom-group-psychotherapy.jpg&quot; alt=&quot;The Theory and Practice of Group Psychotherapy&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I wanted this book for awhile and, yes, those are my coffee stains on the cover. I first began reading Yalom when I was a counselling student and read, “Love’s Executioner”. Yalom doesn’t disappoint.&lt;/p&gt;
-
-&lt;p&gt;I have long been interested in group therapy and Yalom was a pioneer in working with the dying in groups. I read once that people wondered why he would “waste” his time on the dying. While that is a shocking notion, it testifies to a relatively common perception at the time that resources could be “better spent” than on the dying.&lt;/p&gt;
-
-&lt;p&gt;I am reviewing this important book about group therapy and might have more to say on it, here.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Tūruapō</title>
-   <link href="https://tuuruapoo.com/2023/t%C5%ABruap%C5%8D/"/>
+   <link href="http://localhost:4000/tu%CC%84ruapo%CC%84/"/>
    <updated>2023-07-11T12:30:00+12:00</updated>
-   <id>https://tuuruapoo.com/2023/tūruapō</id>
-   <content type="html">&lt;p&gt;When you have had a vision and your name becomes Tūruapō.&lt;/p&gt;
+   <id>http://localhost:4000/tūruapō</id>
+   <content type="html">&lt;p&gt;When you have had a vision and your name becomes .&lt;/p&gt;
 </content>
  </entry>
  
