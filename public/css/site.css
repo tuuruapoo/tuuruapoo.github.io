@@ -29,3 +29,13 @@ h1, h2, h3, h4, h5, h6 {
 .post-title {
   margin-top: 0;
 }
+
+.highlight-text {
+  background-color: #fff4cc;
+}
+
+.img-border {
+  border: 1px solid #000000;
+  border-radius: 7px;
+  max-width: 100%;
+} 
