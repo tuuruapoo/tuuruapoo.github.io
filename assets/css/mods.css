@@ -1,5 +1,4 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Joti+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
 
 a.tooltip {
   position: relative;
@@ -171,15 +170,15 @@ p img {
 
 .ia-button {
   box-shadow: none !important;
-  font-family: "Joti One", serif !important;
+  font-family: "Sigmar One", sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Joti One", serif !important;
+  font-family: "Sigmar One", sans-serif;
 }
 
 #header .logo {
-  font-family: "Joti One", serif !important;
+  font-family: "Sigmar One", sans-serif;
 }
 
 #sidebar h1, h2, h3, h4, h5, h6 {
