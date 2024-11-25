@@ -1,0 +1,213 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Joti+One&display=swap');
+
+a.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted #ac4142;
+}
+
+a.tooltip .tooltiptext {
+  font-size: small;
+  visibility: hidden;
+  max-width: 200px;
+  min-width: 150px;
+  background-color: #a9a1ca;
+  color: #2f2d2d;
+  text-align: left;
+  line-height: normal;
+  border: 1px solid #ac4142;
+  padding: 10px;
+
+  /* Position the tooltip */  
+/*  position: absolute; */
+position: absolute;
+top: -70px;
+left: 0px;
+z-index: 1; 
+}
+
+a.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.highlight-text {
+  background-color: #fff4cc;
+}
+
+.img-border {
+  border: 1px solid #ac4142;
+  border-radius: 7px;
+  max-width: 100%;
+} 
+
+.posts a {
+  text-decoration: underline;
+}
+
+.post a {
+  text-decoration: underline;
+}
+
+.page a {
+  text-decoration: underline;
+}
+
+#mc-embedded-subscribe {
+  background-color: #ffffff !important; 
+  box-shadow: none !important;
+  color: #000000 !important;
+  font-family: "Open Sans", Helvetica, sans-serif !important;
+  border: 1px solid black !important;
+  box-shadow: 10px 10px 5px #aaaaaa !important;
+  min-height: 50px;
+}
+
+.refferal_badge {
+  max-width: 75%;
+}
+
+#mc_embed_shell {
+  width: 90% !important;
+}
+
+#mc_embed_signup {
+  width: 90% !important;
+}
+
+#mc_embed_signup form {
+  margin: 0px !important;
+}
+
+.img-profile {
+  border: 1px solid #ac4142;
+  border-radius: 50%;
+  max-width: 50%;
+  max-height: 50%;
+  float: right;
+} 
+
+.profile {
+  float: right;
+  margin: 20px;
+  max-width: 50%;
+}
+
+.img-logo {
+  max-width: 90%;
+  max-height: 90%;
+  float: center;
+} 
+
+p img {
+  max-width: 100% !important;
+} 
+
+.ia-button {
+  clear: both;
+  background-color: #ffffff !important;
+  font-family: "Open Sans", Helvetica, sans-serif !important;
+  border: 1px solid black !important;
+  border-radius: 4px;
+  transition: all 0.23s ease-in-out 0s;
+  color: #000000 !important;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: normal;
+  height: 32px;
+  min-height: 50px;
+  line-height: 32px;
+  margin: 0 5px 10px 0;
+  padding: 0 22px;
+  text-align: center;
+  text-decoration: none !important;
+  vertical-align: top;
+  white-space: nowrap;
+  width: fit-content;
+  width: -moz-fit-content;
+}
+
+.ia-button a:link {
+  text-decoration: none !important;  ;
+}
+
+.bottom-text {
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid #ac4142;
+  background-color: #d7e3f4;
+  color: #000000;
+}
+
+.features article .icon::after {
+  border: solid 2px #ac4142;
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-top-color: #ac4142;
+    border-right-width: 2px;
+    border-right-style: solid;
+    border-right-color: #ac4142;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #ac4142;
+    border-left-width: 2px;
+    border-left-style: solid;
+    border-left-color: #ac4142;
+    border-image-outset: 0;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
+}
+
+#menu ul a, #menu ul span {
+  color: #fff !important;
+}
+
+#sidebar p {
+  color: #fff !important; 
+}
+
+.ia-button {
+  box-shadow: none !important;
+  font-family: "Joti One", serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Joti One", serif !important;
+}
+
+#header .logo {
+  font-family: "Joti One", serif !important;
+}
+
+#sidebar h1, h2, h3, h4, h5, h6 {
+  color: #fff !important; 
+}
+
+.category-head {
+  color: #ac4142 !important; 
+}
+
+.archive-group h1, h2, h3, h4, h5, h6 {
+  color: #ac4142 !important; 
+}
+
+.major h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important; 
+}
+
+.content h1, h2, h3, h4, h5, h6 {
+  color: #ac4142 !important; 
+}
+
+#sidebar h2 {
+  color: #fff !important; 
+  font-size: 2em;
+}
+
+#sidebar > .inner > * {
+  border-bottom: none;
+  margin: 0;
+}
