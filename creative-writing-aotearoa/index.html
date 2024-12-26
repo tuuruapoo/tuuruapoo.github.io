@@ -145,6 +145,22 @@
 
               
 
+<a href="javascript:void(0);" class="donate-button" onclick="setDonationAmount()">
+    Donate SOL
+  </a>
+  <script>
+    function setDonationAmount() {
+      const amount = prompt("Enter the amount of SOL you wish to donate:");
+      if (amount && !isNaN(amount) && parseFloat(amount) > 0) {
+        const walletAddress = "F2ng...Aa24"; // Replace with your wallet address
+        const donationLink = `solana-actions:transfer?recipient=${walletAddress}&amount=${amount}`;
+        window.location.href = donationLink;
+      } else {
+        alert("Please enter a valid donation amount.");
+      }
+    }
+  </script>
+
 							<!-- Footer -->
               <footer id="footer">
                 <p class="copyright">&copy; Tūruapō</p>
