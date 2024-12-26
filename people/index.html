@@ -169,8 +169,7 @@ leesturgis.sol
   
   <script>
     async function initiateDonation() {
-      const walletAddress = "Fao8jZVGBXkTiXzqs5D6knjy7BSmqQxzpRpmpjj6rhjb"; // leesturgis.sol wallet address
-  
+      const walletAddress = "Fao8jZVGBXkTiXzqs5D6knjy7BSmqQxzpRpmpjj6rhjb"; // leesturgis.sol wallet address  
       // Check if a Solana wallet is available
       if (!window.solana || typeof window.solana.connect !== "function") {
         alert("Please install a Solana wallet (e.g., Phantom, Solflare) to donate.");
@@ -184,6 +183,12 @@ leesturgis.sol
         const publicKey = wallet.publicKey.toString();
         console.log("Connected wallet:", publicKey);
   
+        // Fetch wallet balance
+        const connection = new window.solanaWeb3.Connection(window.solana.rpcUrl || "https://api.mainnet-beta.solana.com");
+        const balance = await connection.getBalance(wallet.publicKey);
+        const balanceInSOL = balance / window.solanaWeb3.LAMPORTS_PER_SOL; // Convert lamports to SOL
+        console.log("Wallet balance:", balanceInSOL, "SOL");
+  
         // Prompt for donation amount
         const amount = prompt("Enter the amount of SOL you wish to donate:");
         if (!amount || isNaN(amount) || parseFloat(amount) <= 0) {
@@ -191,18 +196,18 @@ leesturgis.sol
           return;
         }
   
-        // Prepare the Solana Actions URL
-        const transaction = {
-          to: walletAddress,
-          amount: parseFloat(amount), // Convert to number
-        };
+        const amountInSOL = parseFloat(amount);
+        if (amountInSOL > balanceInSOL) {
+          alert("Insufficient funds. Please enter an amount less than or equal to your balance.");
+          return;
+        }
   
         // Redirect using Solana Actions URL
-        const donationLink = `solana-actions:transfer?recipient=${transaction.to}&amount=${transaction.amount}`;
+        const donationLink = `solana-actions:transfer?recipient=${walletAddress}&amount=${amountInSOL}`;
         window.location.href = donationLink;
       } catch (err) {
-        console.error("Failed to connect wallet:", err);
-        alert("Could not connect to your wallet. Please try again.");
+        console.error("Error occurred:", err);
+        alert("An error occurred while processing your donation. Please try again.");
       }
     }
   </script>
