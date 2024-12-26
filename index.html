@@ -102,7 +102,52 @@
                 <h2>Crypto donations:</h2>
                   <p>leesturgis.eth</p>
 
-                <p><a style="text-decoration:none" class="button-anchor" href="https://us18.list-manage.com/contact-form?u=72921fa98ffd98fb3bde71242&form_id=7776b8c6c86b126d73c17e9cd6867809" title="Contact Us" target="_blank"><button class="ia-button " type="button">Contact</button></a></p>
+                  <button class="ia-button"><a href="javascript:void(0);" class="donate-button" onclick="initiateDonation()">
+    Donate SOL
+  </a></button>
+  
+  <script>
+    async function initiateDonation() {
+      const walletAddress = "F2ng...Aa24"; // Replace with your wallet address
+  
+      // Check if a Solana wallet is available
+      if (!window.solana || typeof window.solana.connect !== "function") {
+        alert("Please install a Solana wallet (e.g., Phantom, Solflare) to donate.");
+        return;
+      }
+  
+      try {
+        // Request wallet connection
+        const wallet = window.solana;
+        await wallet.connect();
+        const publicKey = wallet.publicKey.toString();
+        console.log("Connected wallet:", publicKey);
+  
+        // Prompt for donation amount
+        const amount = prompt("Enter the amount of SOL you wish to donate:");
+        if (!amount || isNaN(amount) || parseFloat(amount) <= 0) {
+          alert("Invalid donation amount.");
+          return;
+        }
+  
+        // Prepare the Solana Actions URL
+        const transaction = {
+          to: walletAddress,
+          amount: parseFloat(amount), // Convert to number
+        };
+  
+        // Redirect using Solana Actions URL
+        const donationLink = `solana-actions:transfer?recipient=${transaction.to}&amount=${transaction.amount}`;
+        window.location.href = donationLink;
+      } catch (err) {
+        console.error("Failed to connect wallet:", err);
+        alert("Could not connect to your wallet. Please try again.");
+      }
+    }
+  </script>
+  
+
+                <p><a style="text-decoration:none" class="button-anchor" href="https://us18.list-manage.com/contact-form?u=72921fa98ffd98fb3bde71242&form_id=7776b8c6c86b126d73c17e9cd6867809" title="Contact Us" target="_blank"><button class="ia-button" type="button">Contact</button></a></p>
               </section>
 
               
