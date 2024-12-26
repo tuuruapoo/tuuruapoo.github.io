@@ -171,6 +171,7 @@ p img {
 .ia-button {
   box-shadow: none !important;
   font-family: "Sigmar One", sans-serif;
+  text-decoration: none !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
