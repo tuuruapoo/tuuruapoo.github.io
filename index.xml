@@ -8,14 +8,14 @@
     <language>en-us</language>
     <managingEditor>jsmith@example.org (John Smith)</managingEditor>
     <webMaster>jsmith@example.org (John Smith)</webMaster>
-    <lastBuildDate>Mon, 20 Jan 2025 16:06:36 +1300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 09:10:00 +1300</lastBuildDate>
     <atom:link href="https://kaitoa.nz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://kaitoa.nz/my-first-post/</link>
-      <pubDate>Mon, 20 Jan 2025 16:06:36 +1300</pubDate><author>jsmith@example.org (John Smith)</author>
-      <guid>https://kaitoa.nz/my-first-post/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;my-first-post.jpg&#34; alt=&#34;My First Post&#34;&gt;&#xA;{ .img-fluid }&lt;/p&gt;</description>
+      <title>George</title>
+      <link>https://kaitoa.nz/george/</link>
+      <pubDate>Wed, 22 Jan 2025 09:10:00 +1300</pubDate><author>jsmith@example.org (John Smith)</author>
+      <guid>https://kaitoa.nz/george/</guid>
+      <description>&lt;p&gt;It doesn&amp;rsquo;t seem that long -&lt;br&gt;&#xA;It feels like yesterday.&lt;/p&gt;&#xA;&lt;p&gt;Those days of walking through the snow,&lt;br&gt;&#xA;the rain,&lt;br&gt;&#xA;the heat.&lt;/p&gt;&#xA;&lt;p&gt;Walking down that alleyway,&lt;br&gt;&#xA;the trees overhead.&lt;/p&gt;&#xA;&lt;p&gt;Coming in the back door,&lt;br&gt;&#xA;wondering if you were home.&lt;/p&gt;&#xA;&lt;p&gt;Seeing you sitting in that old armchair,&lt;br&gt;&#xA;leaning forward as you listened to your records of scriptures,&lt;br&gt;&#xA;your eyes half closed,&lt;br&gt;&#xA;as you focused on the words.&lt;br&gt;&#xA;No longer able to see,&lt;br&gt;&#xA;but more than able to listen.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

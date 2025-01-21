@@ -8,13 +8,13 @@
     <language>en-us</language>
     <managingEditor>jsmith@example.org (John Smith)</managingEditor>
     <webMaster>jsmith@example.org (John Smith)</webMaster>
-    <lastBuildDate>Mon, 20 Jan 2025 16:06:36 +1300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 09:10:00 +1300</lastBuildDate>
     <atom:link href="https://kaitoa.nz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Featured</title>
-      <link>https://kaitoa.nz/tags/featured/</link>
-      <pubDate>Mon, 20 Jan 2025 16:06:36 +1300</pubDate><author>jsmith@example.org (John Smith)</author>
-      <guid>https://kaitoa.nz/tags/featured/</guid>
+      <title>Family</title>
+      <link>https://kaitoa.nz/tags/family/</link>
+      <pubDate>Wed, 22 Jan 2025 09:10:00 +1300</pubDate><author>jsmith@example.org (John Smith)</author>
+      <guid>https://kaitoa.nz/tags/family/</guid>
       <description></description>
     </item>
   </channel>
