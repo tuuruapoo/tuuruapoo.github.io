@@ -1,3 +1,15 @@
 h1, h2, h3, h4, h5, h6 {
   font-family: "Sigmar One", serif !important;
 }
+
+.sidebar {
+  background-color: #1f4f9c !important;
+}
+
+.page-title, .post-title, .post-title a {
+  color: #1f4f9c !important;
+}
+
+.sidebar-about h1 {
+  text-decoration: none !important;
+}
