@@ -6,14 +6,12 @@
     <description>Recent content in Categories on Kaitoa</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <managingEditor>jsmith@example.org (John Smith)</managingEditor>
-    <webMaster>jsmith@example.org (John Smith)</webMaster>
     <lastBuildDate>Wed, 22 Jan 2025 09:10:00 +1300</lastBuildDate>
     <atom:link href="https://kaitoa.nz/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Poetry</title>
       <link>https://kaitoa.nz/categories/poetry/</link>
-      <pubDate>Wed, 22 Jan 2025 09:10:00 +1300</pubDate><author>jsmith@example.org (John Smith)</author>
+      <pubDate>Wed, 22 Jan 2025 09:10:00 +1300</pubDate>
       <guid>https://kaitoa.nz/categories/poetry/</guid>
       <description></description>
     </item>
